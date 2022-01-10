@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Byan
+
+I'm an Electrical Engineering student at Gadjah Mada UNiversity.
+...
+I have nothing more to write what more, so if you want to know more from me please feel free to contact me at byanarvendy@gmial.com
+
 
 <!--
 **hwalahumba/hwalahumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
