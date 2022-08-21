@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Byan
 
-I'm an Electrical Engineering student at Gadjah Mada UNiversity.  
+I'm an Electrical Engineering student at Gadjah Mada University.  
 ...  
 I have nothing more to write what more, so if you want to know more from me please feel free to contact me at byanarvendy@gmial.com
 
